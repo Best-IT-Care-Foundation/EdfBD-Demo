@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Montserrat", sans-serif;
+}
+/* Logo */
+.Logo {
+  height: 90px;
+}
+@media screen and (max-width: 899px) {
+  /* .Slider{
+    height;
+  } */
+  .Bars {
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    margin-right: 30px;
+    color: #f7f7f7;
+  }
+  .MobileMenu {
+    background: url("./images/black-linen.png");
+    background-color: #343a40;
+  }
+}
+@media screen and (min-width: 900px) {
+  .LogInBtn_DeskNav{
+    padding:15px 70px;
+    background-color:#fff;
+    font-size: 17px;
+    color: #343a40;
+    border-radius: 3px;
+    font-weight: 600;
+    text-decoration: none;
+  }
+  .FocusBtnMenu {
+    padding: 10px 15px;
+    background-color: royalblue;
+    font-size: 13px !important;
+    color: #f7f7f7 !important;
+    border-radius: 3px;
+  }
+  .FocusBtnMenu:hover {
+    color: #cfcfcf !important;
+  }
+  .HamBurger{
+    margin-left: 30px;
+    font-size: 25px;
+    color:#fff;
+    cursor: pointer;
+  }
+  .NavDeskLinkHam{
+    text-align: center;
+    margin-top: 50px;
+    padding: 50px 0px;
+    text-align: left;
+  }
+  .NavDeskTimes{
+    margin-left: 100%;
+    margin-bottom:50px;
+    color:#f7f7f7;
+    font-size: 35px;
+    cursor: pointer;
+  }
+  .Slider_Div {
+    background-color: #343a40a1;
+    height: 100%;
+  }
+  .Slider {
+    height: 700px;
+    background: url("./images/Slider_image.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+  .LogoLink {
+    margin: 5px 0px 0px 70px;
+  }
+}
