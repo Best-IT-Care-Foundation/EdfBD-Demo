@@ -1,0 +1,2 @@
+(this.webpackJsonpedfbd=this.webpackJsonpedfbd||[]).push([[6],{63:function(e,t,c){"use strict";c.r(t),c.d(t,"default",(function(){return s}));var i=c(1);function n(){return Object(i.jsx)("div",{className:"Slider",children:Object(i.jsx)("div",{className:"Slider_Div"})})}function s(){return Object(i.jsx)("div",{children:Object(i.jsx)(n,{})})}}}]);
+//# sourceMappingURL=6.a0459883.chunk.js.map

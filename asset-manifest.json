@@ -1,0 +1,35 @@
+{
+  "files": {
+    "static/js/0.bc87e338.chunk.js": "/EdfBD-Demo/static/js/0.bc87e338.chunk.js",
+    "static/js/0.bc87e338.chunk.js.map": "/EdfBD-Demo/static/js/0.bc87e338.chunk.js.map",
+    "main.css": "/EdfBD-Demo/static/css/main.c3d1a0a1.chunk.css",
+    "main.js": "/EdfBD-Demo/static/js/main.6418c9d8.chunk.js",
+    "main.js.map": "/EdfBD-Demo/static/js/main.6418c9d8.chunk.js.map",
+    "runtime-main.js": "/EdfBD-Demo/static/js/runtime-main.ebc441a6.js",
+    "runtime-main.js.map": "/EdfBD-Demo/static/js/runtime-main.ebc441a6.js.map",
+    "static/js/3.60bfabbe.chunk.js": "/EdfBD-Demo/static/js/3.60bfabbe.chunk.js",
+    "static/js/3.60bfabbe.chunk.js.map": "/EdfBD-Demo/static/js/3.60bfabbe.chunk.js.map",
+    "static/js/4.d81ee488.chunk.js": "/EdfBD-Demo/static/js/4.d81ee488.chunk.js",
+    "static/js/4.d81ee488.chunk.js.map": "/EdfBD-Demo/static/js/4.d81ee488.chunk.js.map",
+    "static/js/5.7c7b5a6b.chunk.js": "/EdfBD-Demo/static/js/5.7c7b5a6b.chunk.js",
+    "static/js/5.7c7b5a6b.chunk.js.map": "/EdfBD-Demo/static/js/5.7c7b5a6b.chunk.js.map",
+    "static/js/6.a0459883.chunk.js": "/EdfBD-Demo/static/js/6.a0459883.chunk.js",
+    "static/js/6.a0459883.chunk.js.map": "/EdfBD-Demo/static/js/6.a0459883.chunk.js.map",
+    "static/js/7.1b6a027b.chunk.js": "/EdfBD-Demo/static/js/7.1b6a027b.chunk.js",
+    "static/js/7.1b6a027b.chunk.js.map": "/EdfBD-Demo/static/js/7.1b6a027b.chunk.js.map",
+    "static/js/8.e28f39dd.chunk.js": "/EdfBD-Demo/static/js/8.e28f39dd.chunk.js",
+    "static/js/8.e28f39dd.chunk.js.map": "/EdfBD-Demo/static/js/8.e28f39dd.chunk.js.map",
+    "index.html": "/EdfBD-Demo/index.html",
+    "static/css/main.c3d1a0a1.chunk.css.map": "/EdfBD-Demo/static/css/main.c3d1a0a1.chunk.css.map",
+    "static/js/3.60bfabbe.chunk.js.LICENSE.txt": "/EdfBD-Demo/static/js/3.60bfabbe.chunk.js.LICENSE.txt",
+    "static/media/Loading.61db2576.svg": "/EdfBD-Demo/static/media/Loading.61db2576.svg",
+    "static/media/Logo.png": "/EdfBD-Demo/static/media/Logo.36316779.png",
+    "static/media/index.css": "/EdfBD-Demo/static/media/black-linen.8a1abc77.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebc441a6.js",
+    "static/js/3.60bfabbe.chunk.js",
+    "static/css/main.c3d1a0a1.chunk.css",
+    "static/js/main.6418c9d8.chunk.js"
+  ]
+}
